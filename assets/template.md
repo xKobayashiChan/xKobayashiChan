@@ -1,7 +1,7 @@
 ```
 ┌──┤ whoami ├─────────▰▰▰
 │
-├─▣ Lexwtf
+├─▣ xKobayashiChan
 ├─▣ frontend dev @ japan
 │
 └───────────────────────────────▰▰▰

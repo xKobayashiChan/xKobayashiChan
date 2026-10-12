@@ -1,3 +1,3 @@
-module github.com/Lexwtf/Lexwtf
+module github.com/xKobayashiChan/xKobayashiChan
 
 go 1.24
